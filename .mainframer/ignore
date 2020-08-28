@@ -8,7 +8,6 @@
 .git
 /.idea
 gradle.properties
-local.properties
 cache.gradle
 /captures
 /modules/**/*.apk
