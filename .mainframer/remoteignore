@@ -1,0 +1,7 @@
+###################################################################################
+# Ignore from remote maschine. Added ignore rules don't sync
+# files from remote side.
+###################################################################################
+
+src
+intermediates

@@ -1,0 +1,16 @@
+###################################################################################
+# Ignore for both sides: local and remote
+# It's the same if you add ignores at both files `localignore` and `remoteignore`
+# at the same time.
+###################################################################################
+
+.gradle
+.git
+/.idea
+gradle.properties
+local.properties
+cache.gradle
+/captures
+/modules/**/*.apk
+*.hprof
+
